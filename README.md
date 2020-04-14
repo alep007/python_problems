@@ -1,2 +1,2 @@
 # python_problems
-solving and practicing some code-related interviews question
+solving and practicing some code-related interviews question for fun
